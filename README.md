@@ -5,7 +5,9 @@
 
 > Delivery packages will have a lower chance of being left unattended. Customers are reassured that their package will not be left open to theft. 
 
+## Table of Contents
 - [Computer Vision aided Contactless Delivery](#computer-vision-aided-contactless-delivery)
+  - [Table of Contents](#table-of-contents)
   - [How it works...](#how-it-works)
     - [1. Enter the email in which you would like to receive email notifications.](#1-enter-the-email-in-which-you-would-like-to-receive-email-notifications)
     - [2. Video feed from the camera will pop up](#2-video-feed-from-the-camera-will-pop-up)
