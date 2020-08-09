@@ -70,6 +70,6 @@ email_pass = "Sender password goes here"
 
 (Project works very well with Raspberry Pi 4 paired with camera module)
 
-#### Please feel to connect with me on LinkedIn, I'd love to chat about project ideas, software enginner, or anything related to tech!
+#### Please feel to connect with me on LinkedIn, I'd love to chat about project ideas, software enginnering internships, or anything related to tech!
 
 [My LinkedIn profile](https://www.linkedin.com/in/tmrahman/ "LinkedIn Profile")
