@@ -54,12 +54,13 @@
 ## Requirements
 1. Windows/Mac/Linux desktop or laptop or Raspberry Pi 4
 2. Webcam
-3. Python with the following external dependancies...
+3. googleservicetoken.json -> from by setting up vision api on the google cloud console
+4. Python with the following external dependancies...
    - pandas
    - numpy
    - opencv-python
    - google.cloud
-4. Set up sender email account and assign corresponding values to email_user and email_pass
+5. Set up sender email account and assign corresponding values to email_user and email_pass
 
 ```python
 email_user = "Sender email address goes here"
