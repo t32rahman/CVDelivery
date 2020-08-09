@@ -15,8 +15,6 @@
     - [4. Once delivery is detected, an email is sent to homeowner](#4-once-delivery-is-detected-an-email-is-sent-to-homeowner)
     - [5. Email received!](#5-email-received)
   - [Requirements](#requirements)
-      - [Please feel to connect with me on LinkedIn, I'd love to chat about project ideas, software enginner, or anything related to tech!](#please-feel-to-connect-with-me-on-linkedin-id-love-to-chat-about-project-ideas-software-enginner-or-anything-related-to-tech)
-
 
 ## How it works...
 
